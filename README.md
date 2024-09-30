@@ -35,7 +35,7 @@ The dataset includes job titles, companies, job type, sallary, job description a
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/Jobstreet_Scrape_Data_Related.git
    ```
 2. Install the required dependencies (see below).
 3. Open the Jupyter notebook `Scrape_Job_Street.ipynb` and run the cells to execute the scraping process or modify it for future use.
